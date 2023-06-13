@@ -1,0 +1,3 @@
+Lineas dw codigo 000000
+Lineas dw codigo 000000
+Lineas dw codigo 000000
